@@ -1,4 +1,4 @@
-# Age Calculator Project
+# Age Calculator
 
 ## Overview
 
